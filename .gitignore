@@ -1,9 +1,13 @@
-/target
+target/
+node_modules/
 # General
 .DS_Store
 .AppleDouble
 .LSOverride
-
+.idea/
+.vscode/
+*.log
+*.tmp
 # Icon must end with two \r
 Icon
 
